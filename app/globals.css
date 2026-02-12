@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+/* Animación para el gradiente del título */
+@keyframes gradient {
+  0%,
+  100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+.animate-gradient {
+  background-size: 200% 200%;
+  animation: gradient 3s ease infinite;
+}
+
+/* Smooth scrolling */
+* {
+  scroll-behavior: smooth;
+}
+
+/* Estilos personalizados para radio buttons */
+input[type="radio"] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 1.5rem;
+  height: 1.5rem;
+  border: 2px solid #64748b;
+  border-radius: 50%;
+  outline: none;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+input[type="radio"]:checked {
+  border-color: #a855f7;
+  background-color: #a855f7;
+}
+
+input[type="radio"]:hover {
+  border-color: #cbd5e1;
+}

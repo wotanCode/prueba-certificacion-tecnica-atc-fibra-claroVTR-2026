@@ -1,0 +1,1502 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Si el cliente se niega a firmar la orden tecnica digital (OT Digital), la instalacion debe suspenderse inmediatamente.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Ademas de la experiencia técnica, ¿cuál es el otro componente fundamental del rol del tecnico segun el protocolo?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "la capacidad de venta de servicios adicionales.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "la rapidez en la ejecucion de la orden",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "la atencion al cliente excepcional",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "la habilidad para realizar configuraciones complejas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Al llegar al domicilio, la vestimenta debe ser impecable, con el uniforme limpio y ordenado y las herramientas organizadas.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "Falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Cual es uno de los principios generales destacados del rol del tecnico?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ser un asesor de confianza y embajador de la marca",
+          "isCorrect": true
+        },
+        { "id": "b", "text": "ser un experto electrico", "isCorrect": false },
+        { "id": "c", "text": "ser un gestor de reclamos", "isCorrect": false },
+        {
+          "id": "d",
+          "text": "ser un vededor de productos.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Si se presenta un riesgo electrico en el domicilio, el tecnico tiene la responsabilidad de intentar solucionar el problema antes de derivarar la orden.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "¿Cual es la indicación especifica para la pantalla del dispositivo al momento de solicitar la firma de la orden tecnica digital (OT Digital)?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "No se debe mostrar al cliente la pantalla.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Debe estar bloqueada con clave.",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Debe estar en vertical para facilitar.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Colocar la pantalla horizontal para facilitar la firma",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "La habilidad del tecnico para comunicarse y planificar con el cliente es menos importante que su destreza tecnica.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Al finalizar la visita, ¿cual es el paso esencial en la despedida profesional y amable?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Entregar una promocion de descuento",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Solicitar una propina por el servicio.",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Agradecer al cliente por su tiempo y la confianza en Claro VTR",
+          "isCorrect": true
+        },
+        { "id": "d", "text": "Ninguna de las anteriores.", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Que respaldo recibira el cliente despues de que el tecnico ingrese ambas firmas en la OT digital?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Una copia fisica impresa de la orden",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "una Copia de la OT digital en su correo electronico",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Un mensaje de texto con el resumen",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Un numero de folio para que la busque en linea.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Durante la instalación, si surgen inconvenientes, ¿ que debe hacer el tecnico en relacion con el cliente?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ocultar el desafio para no preocuparlo.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Informarle sobre el ñrogreso y cualquier desafio que surja",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Dar aviso solo al supervisor",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Intentar resolverlo solo sin informarle.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Si en el domicilio hay lactantes durmiendo, ¿cual es la accion correcta que debe realizar el tecnico?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Informar al cliente de posibles ruidos molestos.",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Suspender la visita y coordinar otra",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Trabajar exclusivamente en ele xterior de la vivienda.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Ingresar y realizar el trabajo en absoluto silencio",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "En la etapa de finalizacion es crucial guiar al cliente en el uso de los equipos y servicios, como el ONT o extensores wi-fi",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "Falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "La confirmacion de la ruta para el cable y la roseta optica (PTO) debe realizar obteniendo la aprobacion explicita del cliente",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "La confirmacion de la ruta para el cable y la roseta optica (PTO) debe realizarse obteniendo la aprobacion explicita del cliente",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "El tecnico debe ingresar y comenzar la instalacion inmediatamente despues de presentarse para no perder tiempo, sin explicar el proposito.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "El rol del tecnico es exclusivamente tecnico y la atencion al cliente es una funcion secundaria",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Que detalle de la orden de trabajo debe validar el tecnico con el cliente durante la coordinacion inicial?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "El tipo de tecnologia de la actividad.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "La direccion y el servicio a instalar.",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "El historial de pagos del servicio.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "La fecha de nacimiento del titular de la cuenta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Antes de comenzar el trabajo dentro del domicilio, ¿Que debe solicitar explicitamente el tecnico al cliente?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "El pago del mes por adelantado",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Una revision del contrato de servicio",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Una lista de las personas que viven en la casa",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Su aprobacion (autorizacion) para iniciar los trabajos",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Al finalizar el trabajo, el tecnico debe recoger sus herramientas y dejar el area de trabajo limpia y ordenada.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "Falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "¿Cual de estas pruebas es esencial realizar en conjunto con el cliente para verificar el correcto funcionamiento del servicio",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prueba de resistencia del cableado",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Prueba de estres a todos los equipos",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Realizar pruebas basicas como navegacion web y llamadas de prueba",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "Pruebas de velocidad de la competencia",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Si en el domicilio hay menores de edad solos, el tecnico debe ingresar, pero pidiendo al cliente adulto que llegue lo antes posible.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "En la etapa de finalizacion la \"Capacitacion y empoderamiento del cliente\" incluye:",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Exclusivamente firmar la OT digital.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Guiar al cliente en el uso de los nuevos servicios y equipos.",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Unicamente la limpieza del area de trabajo.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Solo resolver dudas del cliente.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "¿Qué Herramienta o plataforma se utiliza para confimar la llegada del técnico al cliente antes de la visita?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "La plataforma \"Where is my tech\"",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Una llamada telefonica al azar.",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Un correo electronico generico.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "La aplicacion de mensajeria instantanea del supervisor.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "El valor de medicion electrica entre neutro y tierra no debe ser mayor a 5 V.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Durante la instalación, el tecnico no necesita informar al cliente sobre el progreso ni sobre los posibles desafios que surjan.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "La verificacion y confirmacion de satisfaccion se realiza solo con la revision de la navegacion, sin verificar otros servicios como la telefonia o iptv",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Si el tecnico no puede ser acompañado por el adulto responsable en el proceso, debe suspender el trabajo o informar al cliente",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "Falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Durante la instalacion, el tecnico no necesita informar al cliente sobre el progreso ni sobre los posibles desafios que surjan.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "En el flujo de reparacion ONT no enciende, el rango aceptable para la medicion electrica Neutro - Tierra es:",
+      "type": "multiple",
+      "options": [
+        { "id": "a", "text": "Un valor no mayor a 0.5 V", "isCorrect": false },
+        { "id": "b", "text": "Entre 203.5 V y 236.5 V", "isCorrect": false },
+        { "id": "c", "text": "Entre 0 v y 5 v", "isCorrect": false },
+        { "id": "d", "text": "Entre 0 v y 2 v", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Al realizar el \"cambio de pelo\" en el proceso de ONT offline, el objetivo es ubicar un puerto en la CTO con mejores niveles opticos.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "Falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Si una orden de trabajo es \"ONT offiline\" y la ONT presenta alarma de potencia (LOS en rojo y GPON apagado), ¿cual es el primer punto de revision de potencia que debe realizar el técnico en el domicilio?",
+      "type": "multiple",
+      "options": [
+        { "id": "a", "text": "Verificar el puerto de CTO", "isCorrect": false },
+        {
+          "id": "b",
+          "text": "Presionar el boton de reset de la ONT",
+          "isCorrect": false
+        },
+        { "id": "c", "text": "Medicion en la NAP/CTO/FAT", "isCorrect": false },
+        {
+          "id": "d",
+          "text": "Revision de potencia en la roseta optica del domicilio",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "Que accion de limpieza se realiza para corregir problemas de potencia optica a nivel de jumper/roseta?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Limpieza de las conexiones del jumper y la guia de la roseta con la herramienta \"one click\".",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Limpieza de la ONT con aire comprimido.",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Limpieza del splitter optico unicamente con paños",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Limpieza del conector mecanico drop con alcohol isopropilico.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "En el modelo operacion Claro VTR para reparaciones de servicios FTTH, el equipo de call center utiliza el proceso de \"4 pasos FTTH internet\" para la depuracion previa.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "Falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "Para la revision de una orden de \"cobertura/conectividad wifi\" ¿ Que aplicacion se recomienda utilizar para validar cobertura y throughput",
+      "type": "multiple",
+      "options": [
+        { "id": "a", "text": "Wifi analyzer pro", "isCorrect": false },
+        { "id": "b", "text": "Speedtest by ookla", "isCorrect": false },
+        {
+          "id": "c",
+          "text": "Cloud check /cloudCheck home",
+          "isCorrect": true
+        },
+        { "id": "d", "text": "TOA", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "El LED \"LOS\" encendido en color rojo y el LED \"GPON\" apagado en la ONT son alarmas visuales que indica un problema de potencia optica.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "Falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 36,
+      "text": "Si en la NAP/CTO/FAT el puerto del splitter presenta problemas de niveles y no mejora con la limpieza ¿ QUe debe hacer el tecnico si identifica otro puerto disponible con niveles correctos?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dejar una nota en TOA y usar el puerto dañado.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Realizar un cambio de pelo en la acometida",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Escalar inmediatamente a redes y dejar el servicio del cliente sin atencion",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Utilizar el puerto disponible con niveles correctos e informar al ejecutivo de soporte de redes sobre el puerto dañado",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "text": "La orden de trabajo \"ONT offline\" indica una perdida de comunicacion del equipo ONT con las plataformas, lo que se relaciona con un nivel de potencia optica insuficiente o inexistente.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "Falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 38,
+      "text": "¿Que herramienta debe utilizar el personal técnico para realizar cualquier validacion de potencia optica?",
+      "type": "multiple",
+      "options": [
+        { "id": "a", "text": "Multimetro digital", "isCorrect": false },
+        {
+          "id": "b",
+          "text": "OTDR (optical Time-domain reflectometer)",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Instrumento de medicion \"power meter\" homologado",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "Certificador de redes ethernet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "text": "Si se encuentra un puerto dañado, sin potencia o con niveles fuera de rango en la NAP/CTO/FAT, el tecnico debe utilizar el primer puerto disponible y no es necesario informar a soporte de redes.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 40,
+      "text": "En el flujo de reparación \"ONT offline\", si despues de realizar el reset el equipo no retorna el servicio, ¿cual es el paso inmediato a seguir (asumiendo que no hay alarmas de potencia)?",
+      "type": "multiple",
+      "options": [
+        { "id": "a", "text": "Escalar a redes.", "isCorrect": false },
+        {
+          "id": "b",
+          "text": "Reemplazar el equipo ONT por uno nuevo",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "solicitar \"consulta vecino\"",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Verificar la limpiea del puerto de CTO",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "text": "Si el tecnico verifica la NAP/CTO/FAT de un cliente de red neutra con problemas de potencia ¿cual es uno de los pasos obligatorios del procedimiento de enrolamiento?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Limpiar todos los puertos del splitter con \"One Click Mini\" sin importar si estan ocupados",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Reemplazar el drop sin previo aviso",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "enviar falla masica desde la aplicacion",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "Realizar un cambio de pelo inmediatamente",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "text": "Si una orden de trabajo en TOA indica \"ONT no enciende\". El call center la relaciona directamente con temas , ya sea del domicilio o asociados al CPE (ONT).",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "Falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 43,
+      "text": "Los niveles electricos optimos para la medicion fase - neutro deben estar entre 203.5 V y 236.5 V.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "Falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 44,
+      "text": "Durante la reparacion de una falla de \"ONT no enciende\", si no existe energia electrica en el enchufe, el personal técnico debe intentar solucionar la condición electrica del domicilio.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 45,
+      "text": "En la reparacion de una falla de \"ONT no enciende\", si el tecnico detecta problemas electricos en el enchufe del cliente, \"cual es la acción correcta que debe tomar?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Comunicar la condicion al cliente y utilizar otra conexion electrica",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Reemplazar la fuente de poder de la ONT de inmediato.",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reparar el enchufe o la condicion electrica del domicilio.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Escalar el problema a la gerencia de soporte de redes (GSA).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "text": "Cuando la ONT se encuentra offline sin alarmas visibles, el tecnico debe pulsar el boton \"reset\" antes de considerar el reemplazo del equipo",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "Falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 47,
+      "text": "¿Cual es la accion recomendada por el tecnico cuando se determina que el nivel de cobertura wi-fi del domicilio es insuficiente debido al entorno o la distancia de los dispositivos?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Reemplazar el gateway por uno con mayor potencia.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Desactivar las redes 2.4ghz.",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Cambiar el canal wi-fi manualmente",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Recomendar un extensor al cliente",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "text": "Si la fuente de poder de la ONT esta en buen estado electrico, pero la ONT aun no enciende, se debe reemplazar unicamente la fuente de poder antes de cambiar el kit completo.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 49,
+      "text": "¿Cual de las siguientes es una ventaja directa de un conector SC/APC confeccionado correctamente?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "mayornecesidad de fusiones complejas.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Minimizacion de perdidas de señal (atenuacion reducida).",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Disminucion de la vida util de conector.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Aumento de la reflectancia en la linea.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "text": "Los utensilios de limpieza de la fibra (pañuelos y alcohol isopropilico) pueden ser reutilizados una vez en el mismo proceso si el técnico lo considera necesario.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 51,
+      "text": "¿Qué herramienta es \"fundamental\" y de alta precision para realizar un corte perfectamente recto y limpio en la fibra desnuda, crucial para un buen conector?",
+      "type": "multiple",
+      "options": [
+        { "id": "a", "text": "Guillotina (fiber cleaver)", "isCorrect": true },
+        {
+          "id": "b",
+          "text": "Localizador de fallas visuales (VFL)",
+          "isCorrect": false
+        },
+        { "id": "c", "text": "Plantilla de armado", "isCorrect": false },
+        { "id": "d", "text": "Peladora de fibra optica", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 52,
+      "text": "Cual es la herramienta de uso obligatorio para detectar gases contaminantes, niveles de explosividad o insuficiencia de oxigeno al realizar trabajos en camaras?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lampara de luces intermitentes",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Gancho \"J\" o pata de cabra",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Medidor de perdidas (power meter)",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Detector de gases (modelo multipro de marca biosystem)",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "text": "¿Cuál de los siguientes no es nombre alternativo para la caja terminal optica (CTO) según la compañia o red, mencionando en el documento?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "ODF (optical distribution frame)",
+          "isCorrect": true
+        },
+        { "id": "b", "text": "FAT (claro ftth)", "isCorrect": false },
+        { "id": "c", "text": "Nap (VTR FTHH)", "isCorrect": false },
+        { "id": "d", "text": "CTO (red neutra)", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 54,
+      "text": "LA CTO (caja terminal optica) Es donde la fibra que viene de la central se divide y se dirige a los domicilios de los clientes",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "Falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 55,
+      "text": "Que distancia minima debe haber desde una esquina o quiebre en la pared antes de fijar una grampa al tender el cable de fibra en el interior del domicilio?",
+      "type": "multiple",
+      "options": [
+        { "id": "a", "text": "20 cm", "isCorrect": false },
+        { "id": "b", "text": "7 cm", "isCorrect": true },
+        { "id": "c", "text": "3 cm", "isCorrect": false },
+        { "id": "d", "text": "15 cm", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 56,
+      "text": "Dentro del domicilio el espaciado correcto para aplicar grampas al cable de fibra es de aproximadamente 50 a 60 centimetros.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 57,
+      "text": "El localizador de fallas visuales VFL se utiliza para medir atenuacion de la señal optica en decibelius (dB).",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 58,
+      "text": "¿Qué componente se inserta en el orificio de la pared para proteger el cable de fibra optica del roce al ingresar al domicilio?",
+      "type": "multiple",
+      "options": [
+        { "id": "a", "text": "Roseta optica", "isCorrect": false },
+        { "id": "b", "text": "Pasamuros", "isCorrect": true },
+        { "id": "c", "text": "Grampa de fijacion", "isCorrect": false },
+        { "id": "d", "text": "Bucle de goteo", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 59,
+      "text": "La 'APC' en un conector SC/APC indica que la superficie del ferrule esta pulida en un angulo de 8 grados para reducir la reflectancia.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 60,
+      "text": "La herramienta guillotina (fiber cleaver) se utiliza para remover la chaqueta exterior del cable de fibra optica",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 61,
+      "text": "En el tendido interior ¿qué accion se considera una mala practica que pone en riesgo el rendimiento de la fibra?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Exceder el radio de curvatura minimo de la fibra",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Dejar 7cm de distancia de una esquina antes de fijar la grampa.",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Usar el color blanco del cable para ocultarlo mejor",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Aplicar grampas a 35cm de distancia entre si.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "text": "La \"flecha\" ideal del cable de acometida (la curvatura) debe ser aproximadamente el 5% del largo total de la acometida para permitir la expansion termica",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "verdadero", "isCorrect": false },
+        { "id": "b", "text": "falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 63,
+      "text": "La altura minima reglamentaria para el cable de acometida (DROP) cuando cruza una via publica (calle/avenida) es de 4.5 metros",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "Falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 64,
+      "text": "El bucle de goteo o \"bota agua\" se crea para reducir la atenuacion de la señal antes de ingresar al domicilio.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 65,
+      "text": "A que se refiere la \"posicion 1 (activo)\" en la conexion del conector tipo bayoneta o adaptador de la CTO?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "A la conexion fisica y optica correcta que activa el puerto",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "A la posicion para puertos no utilizados (posicion 0).",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "A la posicion de limpieza del conector",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "A la posicion de almacenamiento del cable de reserva.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "text": "Para garantizar el rendimiento del conector, el corte preciso de la fibra debe ser de 30mm al utilizar la plantilla homologada.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "Falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 67,
+      "text": "Cual es la distancia minima reglamentaria para la llegada del cable drop a un domicilio de 1 piso?",
+      "type": "multiple",
+      "options": [
+        { "id": "a", "text": "4.5 metros", "isCorrect": false },
+        {
+          "id": "b",
+          "text": "No hay altura minima definida.",
+          "isCorrect": false
+        },
+        { "id": "c", "text": "2.5 metros", "isCorrect": false },
+        { "id": "d", "text": "1.8 metros", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 68,
+      "text": "¿Cual es el nombre del cable de fibra optica que se despliega desde la caja terminal optica (CTO) hasta el domicilio del cliente?",
+      "type": "multiple",
+      "options": [
+        { "id": "a", "text": "Cable troncal", "isCorrect": false },
+        { "id": "b", "text": "Cable UTP", "isCorrect": false },
+        { "id": "c", "text": "Cable coaxial", "isCorrect": false },
+        { "id": "d", "text": "Cable drop", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 69,
+      "text": "Al realizar la perforacion para el ingreso del cable al domicilio, es vital que esta tenga angulo ligeramente descendente hacia el interior para asegurar un buen sello.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 70,
+      "text": "¿Cúal es el porcentaje de longitud total de la acometida que debe tener como \"flecha\" (curvatura) el cable entre dos puntos de anclaje para una tensión optima?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Debe estar completamente tenso (0% de flecha)",
+          "isCorrect": false
+        },
+        { "id": "b", "text": "Aproximadamente el 5%", "isCorrect": false },
+        { "id": "c", "text": "Aproximadamente el 10%", "isCorrect": false },
+        { "id": "d", "text": "Aproximadamente el 1%", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 71,
+      "text": "Según el procedimiento de Claro VTR, la rosca del conector mecanico debe insertarse despues de que la fibra haya sido descubierta, limpiada y cortada.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 72,
+      "text": "¿Qué elemento de la CTO es responsable de distribuir la señal de una fibra de entrada a multiples fibras de salida poara varios clientes?",
+      "type": "multiple",
+      "options": [
+        { "id": "a", "text": "Conector bayoneta", "isCorrect": false },
+        { "id": "b", "text": "Roseta optica", "isCorrect": false },
+        { "id": "c", "text": "Adaptador SC/APC", "isCorrect": false },
+        {
+          "id": "d",
+          "text": "Splitter (divisor de señal óptica)",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "text": "Qué accion debe realizar el técnico al momento de levantar una tapa de camara pesada para evitar lesiones musculoesqueleticas?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Utilizar solo la fuerza de los brazos y hombros",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Doblar la espalda para usar la fuerza del tronco.",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Utilizar el gancho \"j\" para tapas pesadas.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Flectar las rodillas en el levantamiento veritcal de las piernas, manteniendo la espalda recta",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "text": "La longitud de la fibra desnuda que debe exponerse segun la plantilla homologada para el pelado es de 4.5 cm",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 75,
+      "text": "Es un conector tipo Caiman, el seguro interno (naranjo) debe ir apuntando hacia la entrada del conector al momento de insertar la fibra.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 76,
+      "text": "Si al usar el VFL se observa la luz roja (brillo) en la parte trasera del conector, esto indica que la confeccion fue correcta y la señal es fuerte",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 77,
+      "text": "La fibra optica es sensible a las interferencias electromagneticas (EMI) y por eso debe protegerse con tubos metalicos",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 78,
+      "text": "Cual es la parte central de vidrio de la fibra optica por donde viaja la luz (la señal)?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Capa de recubrimiento (buffer coating)",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "cubierta exterior (outer jacket)",
+          "isCorrect": false
+        },
+        { "id": "c", "text": "revestimiento (cladding)", "isCorrect": false },
+        { "id": "d", "text": "nucleo (core)", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 79,
+      "text": "El power meter se utiliza para medir la potencia optica en determinadas longitudes de onda en la red FTTH",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "Falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 80,
+      "text": "Para evitar el riesgo de cortes y punzadas por las astillas de vidrio de la fibra cortada, el uso obligatorio de que elementos es indispensable:",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chaleco reflectante y linterna",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Detector de voltaje y power meter",
+          "isCorrect": false
+        },
+        { "id": "c", "text": "caso de seguridad y arnes.", "isCorrect": false },
+        { "id": "d", "text": "Guantes y gafas de seguridad", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 81,
+      "text": "Cual es la tecnologia principal usada para implementar las redes ftth en claro VTR, destacando por su arquitectura pasiva y alta capacidad?",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "DOCSIS (Data over cable service interface specification)",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "GPON (gigabit passive optical network)",
+          "isCorrect": true
+        },
+        { "id": "c", "text": "Ethernet", "isCorrect": false },
+        {
+          "id": "d",
+          "text": "ADSL (asymmetric digital subscriber line)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "text": "Todos los servicios (internet tv y telefonia) en una red ftth se entregan a traves de esta unica conexion de fibra gestionada por el equipo OLT en la casa del cliente",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 83,
+      "text": "La fibra optica se compone de un hilo delgado de cobre por donde se transmite la luz y la informacion",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "Falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 84,
+      "text": "Cual de los siguientes componentes de la red GPON es el equipo central del proveedor que gestiona el trafico hacia multiples clientes?",
+      "type": "multiple",
+      "options": [
+        { "id": "a", "text": "OLT (optical line terminal)", "isCorrect": true },
+        {
+          "id": "b",
+          "text": "ONT (optical network terminal)",
+          "isCorrect": false
+        },
+        { "id": "c", "text": "splitters opticos pasivos", "isCorrect": false },
+        {
+          "id": "d",
+          "text": "OTDR (optical time-domain reflectometer)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "text": "El objetivo de la tecnologia FTTH es eliminar los \"cuellos de botella\" que tradicionalmente generaba la infraestructura de cobre",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "verdadero", "isCorrect": true },
+        { "id": "b", "text": "falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 86,
+      "text": "La red propia VTR (FTTH-VTR) corresponde a la infraestructura de fibra optica:",
+      "type": "multiple",
+      "options": [
+        { "id": "a", "text": "Gestionada por on net", "isCorrect": false },
+        {
+          "id": "b",
+          "text": "Desplegada y operada directamente por VTR",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Que solo soporta el servicio de TV",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Desplegada y operada directamente por claro.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "text": "Cuando el tecnico infiere la causa de una falla (rotura, suciedad o baja potencia) al interpretar los equipos de medicion, esta aplicando su conocimiento sobre:",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Las capas de proteccion mecanica",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "El riesgo electrico de los postes.",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "La composicion del cable coaxial",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Como viaja la luz en la fibra.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "text": "Un riesgo importante para la seguridad personal del tecnico al trabajar con fibra optica es:",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sobrecalentamiento del power meter.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Exposicion a ondas de radiofrecuencias (RF) de alta potencia.",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Cortes y punzadas por astillas de vidrio de la fibra cortada",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "Riesgo de electrocucion con el drop.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "text": "Que caracteristicas define la arquitectura \"pasiva\" de la red GPON",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "El equipo OLT no requiere electricidad",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "La ONT no necesita ser energizada",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Los splitters opticos operan sin requerir electricidad",
+          "isCorrect": true
+        },
+        { "id": "d", "text": "Ninguna de las anteriores", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 90,
+      "text": "¿Qué capa de la fibra optica ofrece proteccion mecanica contra impactos y aplastamiento, y se adapta al ambiente (interior o exterior)?",
+      "type": "multiple",
+      "options": [
+        { "id": "a", "text": "Revestimiento (cladding)", "isCorrect": false },
+        { "id": "b", "text": "Nucleo (core)", "isCorrect": false },
+        {
+          "id": "c",
+          "text": "Cubierta exterior (outer jacket)",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "Capa de recubrimiento (buffer coating)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "text": "El equipo ONT (optical network terminal) se instala en el domicilio del cliente y convierte la señal optica en señales electricas para los servicios",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdaero", "isCorrect": true },
+        { "id": "b", "text": "falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 92,
+      "text": "Actualmente, claro VTR gestiona unicamente la red propia de claro y la red propia de VTR para la provision de servicios FTTH.",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": false },
+        { "id": "b", "text": "falso", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 93,
+      "text": "Una de las razones por las que la limpieza rigorosa de los conectores es obligatoria es porque la suciedad interfiere con la trayectoria de la luz generando perdidas",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "Verdadero", "isCorrect": true },
+        { "id": "b", "text": "falso", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 94,
+      "text": "Cual es la capa de la fibra que rodea el nucleo y refleja la luz para mantenerla confinada viajando dentro del mismo?",
+      "type": "multiple",
+      "options": [
+        { "id": "a", "text": "Revestimiento (cladding)", "isCorrect": true },
+        {
+          "id": "b",
+          "text": "Cubierta exterior (outer jacket)",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Capa de recubrimiento (buffer coating)",
+          "isCorrect": false
+        },
+        { "id": "d", "text": "Nucleo (core)", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 95,
+      "text": "En claro VTR la infraestructura de fibra optica gestionada por On Net a la cual tambien se tiene acceso para proveer servicios es conocida como:",
+      "type": "multiple",
+      "options": [
+        { "id": "a", "text": "Red propia Claro", "isCorrect": false },
+        { "id": "b", "text": "Red de cobre hibrida", "isCorrect": false },
+        { "id": "c", "text": "Red propia VTR", "isCorrect": false },
+        { "id": "d", "text": "Red neutra (FTTH-Neutra)", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 96,
+      "text": "El principio clave que permite la transmision de luz y la informacion dentro del nucleo de la fibra optica es:",
+      "type": "multiple",
+      "options": [
+        { "id": "a", "text": "Difraccion", "isCorrect": false },
+        { "id": "b", "text": "Absorcion", "isCorrect": false },
+        { "id": "c", "text": "Refraccion", "isCorrect": false },
+        { "id": "d", "text": "Reflexion total interna", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 97,
+      "text": "La tecnologia FTTH (fiber to the home) se caracteriza por:",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Entregar unicamente el servicio de internet de alta velocidad.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Requerir un splitter activo en el domicilio del cliente",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Instalar fibra optica directamente desde el proveedor hasta el hogar o negocio del cliente",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "Utilizar cable coaxial y cobre para el tramo final al hogar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "text": "Una de las ventajas clave de la fibra optica sobre el cobre es la mayor distancia de transmision que puede cubrir sin necesidad de amplificacion",
+      "type": "boolean",
+      "options": [
+        { "id": "a", "text": "verdadero", "isCorrect": true },
+        { "id": "b", "text": "falso", "isCorrect": false }
+      ]
+    }
+  ]
+}
