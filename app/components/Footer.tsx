@@ -1,6 +1,7 @@
 export default function Footer() {
   return (
     <footer className="fixed bottom-0 left-0 right-0 py-4 bg-gradient-to-t from-slate-900 to-transparent">
+  {/*
       <p className="text-center text-sm text-slate-400">
         Creado con ❤️ por{' '}
         <a 
@@ -12,6 +13,8 @@ export default function Footer() {
           Pedro Yanez
         </a>
       </p>
+
+  */}
     </footer>
   );
 }
