@@ -1497,6 +1497,33 @@
         { "id": "a", "text": "verdadero", "isCorrect": true },
         { "id": "b", "text": "falso", "isCorrect": false }
       ]
+    },
+{
+      "id": 99,
+      "text": "La técnologia que usa VTR para el RJ45 es:",
+      "type": "multiple",
+      "options": [
+        {
+          "id": "a",
+          "text": "Norma T568A: Blanco Verde, Verde, Blanco Naranja, Azul, Blanco Azul, Naranja, Blanco Marrón, Marrón",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Norma T568A: Verde, Blanco Verde, Azul, Blanco Naranja, Naranja, Blanco Azul, Marrón, Blanco Marrón",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Norma T568B: Naranja, Blanco Naranja, Azul, Blanco Verde, Verde, Blanco Azul, Marrón, Blanco Marrón",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "Norma T568B: Blanco Naranja, Naranja, Blanco Verde, Azul, Blanco Azul, Verde, Blanco Marrón, Marrón",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
